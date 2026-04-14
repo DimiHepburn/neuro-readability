@@ -1,0 +1,12 @@
+# neuro-readability requirements
+# ---------------------------------
+# Core (required)
+click>=8.0          # CLI framework
+
+# Optional — significantly improves syllable-count accuracy
+# Uncomment to enable CMU Pronouncing Dictionary lookup:
+# nltk>=3.7
+
+# Development / testing (optional)
+# pytest>=7.0
+# pytest-cov>=4.0
